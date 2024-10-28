@@ -1,0 +1,33 @@
+body {
+  background:white;
+}
+p {
+  color: black;
+}
+h1 {
+  color: #b11818;
+  font-weight: bold;
+  font-family:fantasy;
+  
+}
+
+h2{
+  color: #c98627;
+  font-weight: bold;
+  font-family:fantasy;
+}
+
+h3{
+  color: #d1ac36;
+  font-weight: bold;
+  font-family:fantasy;
+  
+}
+p{
+  font-family: arial;
+}
+img{
+  float: middle;
+  width: 200px;
+  height:200px;
+}
