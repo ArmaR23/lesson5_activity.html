@@ -1,5 +1,5 @@
 body {
-  background:white;
+  background-color:#acad97;
 }
 p {
   color: black;
@@ -12,13 +12,13 @@ h1 {
 }
 
 h2{
-  color: #c98627;
+  color: #aa2727;
   font-weight: bold;
   font-family:fantasy;
 }
 
 h3{
-  color: #d1ac36;
+  color: #ab2727;
   font-weight: bold;
   font-family:fantasy;
   
